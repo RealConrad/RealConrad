@@ -1,4 +1,9 @@
-![ladning-page-gif](https://github.com/RealConrad/RealConrad/blob/main/src/tC7pN4zTFUNYMCZ8iZ6qm1r3O1Koza0TF0yUNi6jpkE.gif)
+<!-- Cyberpunk cafe: https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif -->
+<!-- Cowboy bebob: https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif -->
+<!-- Tales of arise fight scene: https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif -->
+
+<img src="https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif" height="40%" width="40%" />
+
 # Hello, I'm Conrad 👋
 
 ## 💭 About Me
