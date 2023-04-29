@@ -4,7 +4,7 @@
 <!-- Cowboy bebob: https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif -->
 <!-- Tales of arise fight scene: https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif -->
 
-<!-- <img alt="landing-page-gif" src="https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif" width="100%" /> -->
+<img alt="landing-page-gif" src="https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif" width="100%" />
 
 # 👋 Hello, I'm Conrad
 
