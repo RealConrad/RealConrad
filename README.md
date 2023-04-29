@@ -4,21 +4,21 @@
 <!-- Cowboy bebob: https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif -->
 <!-- Tales of arise fight scene: https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif -->
 
-<img alt="landing-page-gif" src="https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif" width="100%" />
+<img alt="landing-page-gif" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" />
 
-# Hello, I'm Conrad 👋
+# 👋 Hello, I'm Conrad
 
 ## 💭 About Me
  - 42Heilbronn Student
  - Programmer
  - Gamer
 
-## Github Stats
+## 📊 Github Stats
 <!-- THEMES: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 | ![My Stats](https://github-readme-stats.vercel.app/api?username=RealConrad&count_private=true&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealConrad&theme=tokyonight)
 |---|---|
 
-## 42 Stats
+## 📊 42 Stats
 [![cwenz's 42 stats](https://badge.mediaplus.ma/darkblue/cwenz?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
