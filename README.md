@@ -4,13 +4,14 @@
 <!-- Cowboy bebob: https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif -->
 <!-- Tales of arise fight scene: https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif -->
 
-<img alt="landing-page-gif" src="https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif" width="100%" />
+<!-- <img alt="landing-page-gif" src="https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif" width="100%" /> -->
+
+
 
 # 👋 Hello, I'm Conrad
 
 ## 💭 About Me
-![My Discord](https://discord-readme-badge.vercel.app/api?id=390230313026060300)
-<!-- <a href="https://discord.com/users/390230313026060300" > -->
+[![Discord Presence](https://lanyard.kyrie25.me/api/390230313026060300?waveColor=8B8BFA&gradient=7E37F9-B48EF7-E568C4&imgStyle)](https://discord.com/users/390230313026060300)
 - 42Heilbronn Student
  - Programmer
  - Gamer
