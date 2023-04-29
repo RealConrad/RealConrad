@@ -1,4 +1,4 @@
-![ladning-page-gif](https://github.com/RealConrad/RealConrad/blob/main/src/CyberpunkCafe.gif)
+![ladning-page-gif](https://github.com/RealConrad/RealConrad/blob/main/src/tC7pN4zTFUNYMCZ8iZ6qm1r3O1Koza0TF0yUNi6jpkE.gif)
 # Hello, I'm Conrad 👋
 
 ## 💭 About Me
