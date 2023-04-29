@@ -4,14 +4,18 @@
 <!-- Cowboy bebob: https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif -->
 <!-- Tales of arise fight scene: https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif -->
 
-<img alt="landing-page-gif" src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="100%" />
+<!-- <img alt="landing-page-gif" src="https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif" width="100%" /> -->
 
 # 👋 Hello, I'm Conrad
 
 ## 💭 About Me
- - 42Heilbronn Student
+![My Discord](https://discord-readme-badge.vercel.app/api?id=390230313026060300)
+<!-- <a href="https://discord.com/users/390230313026060300" > -->
+- 42Heilbronn Student
  - Programmer
  - Gamer
+
+
 
 ## 📊 Github Stats
 <!-- THEMES: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
