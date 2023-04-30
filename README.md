@@ -9,7 +9,7 @@
 # 👋 Hello, I'm Conrad
 
 ## 💭 About Me
-- 42Heilbronn Student
+- 42Heilbronn Student (Part of the [42Network](https://www.42network.org/))
 - Programmer
 - Gamer
 - Anime watcher
@@ -26,7 +26,7 @@
 | ![My Stats](https://github-readme-stats.vercel.app/api?username=RealConrad&count_private=true&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealConrad&theme=tokyonight)
 |---|---| -->
 
-## 📊 42 Stats
+## 📊 42Heilbronn Stats (School)
 [![cwenz's 42 stats](https://badge.mediaplus.ma/darkblue/cwenz?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🔧 Skills:
