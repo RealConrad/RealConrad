@@ -49,11 +49,7 @@ Don't hesitate to reach out to me, whether you have a question, want to hang out
 
 
 <div style="display: flex; gap: 5px;">
-<div>
-<a href="https://steamcommunity.com/profiles/76561198312925864/">
-	<img alt="Steam" width="130" hight="100" src="https://github.com/RealConrad/RealConrad/blob/main/assests/steam.png" />
-</a>
-</div>
+
 <div>
 
 [![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/RealConrad_)
