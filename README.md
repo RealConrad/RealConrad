@@ -34,4 +34,7 @@
 > IDE's: VSCode, VisualStudio, VIM
 
 ## Contact
+#### Discord
 [![Discord Presence](https://lanyard.kyrie25.me/api/390230313026060300?waveColor=8B8BFA&gradient=7E37F9-B48EF7-E568C4&imgStyle)](https://discord.com/users/390230313026060300)
+#### Slack
+[@cwenz]()
