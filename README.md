@@ -48,7 +48,7 @@ Don't hesitate to reach out to me, whether you have a question, want to hang out
 
 
 <div align="center">
-	<a href="https://steamcommunity.com/profiles/76561198312925864/">
+	<a style="padding-right: 5px;" href="https://steamcommunity.com/profiles/76561198312925864/">
 		<img alt="Steam" width="130" hight="100" src="https://github.com/RealConrad/RealConrad/blob/main/assests/steam.png" />
 	</a>
   <a href="https://twitter.com/RealConrad_">
@@ -58,7 +58,10 @@ Don't hesitate to reach out to me, whether you have a question, want to hang out
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
   </a>
 
+  <div style="padding-top: 5px;>
+
   [![Discord Presence](https://lanyard.kyrie25.me/api/390230313026060300?waveColor=8B8BFA&gradient=7E37F9-B48EF7-E568C4&imgStyle)](https://discord.com/users/390230313026060300)
+  </div>
 </div>
 
 
