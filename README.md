@@ -4,19 +4,15 @@
 <!-- Cowboy bebob: https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif -->
 <!-- Tales of arise fight scene: https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif -->
 
-<!-- <img alt="landing-page-gif" src="https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif" width="100%" /> -->
-
-
+<img alt="landing-page-gif" src="https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif" width="100%" />
 
 # 👋 Hello, I'm Conrad
 
 ## 💭 About Me
-[![Discord Presence](https://lanyard.kyrie25.me/api/390230313026060300?waveColor=8B8BFA&gradient=7E37F9-B48EF7-E568C4&imgStyle)](https://discord.com/users/390230313026060300)
 - 42Heilbronn Student
- - Programmer
- - Gamer
-
-
+- Programmer
+- Gamer
+- Anime watcher
 
 ## 📊 Github Stats
 <!-- THEMES: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
@@ -26,22 +22,16 @@
 ## 📊 42 Stats
 [![cwenz's 42 stats](https://badge.mediaplus.ma/darkblue/cwenz?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-
-
 ## Current Skills:
+#### Tech:
+[![My Skills](https://skillicons.dev/icons?i=c,js,ts,vue,html,css,tailwindcss&theme=dark)](https://skillicons.dev)
+#### Tools:
+[![My Skills](https://skillicons.dev/icons?i=figma,github,git,stackoverflow&theme=dark)](https://skillicons.dev)
+#### IDE's:
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vim&theme=dark)](https://skillicons.dev)
+> Tech: C, JavaScript, TypeScript, Vue, HTML, CSS, TailwindCSS \
+> Tools: Figma, Github, Git, Stackoverflow \
+> IDE's: VSCode, VisualStudio, VIM
 
-
-<!--
-**RealConrad/RealConrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+[![Discord Presence](https://lanyard.kyrie25.me/api/390230313026060300?waveColor=8B8BFA&gradient=7E37F9-B48EF7-E568C4&imgStyle)](https://discord.com/users/390230313026060300)
