@@ -35,10 +35,9 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - name: Set GITHUB_TOKEN environment variable
-        run: echo "GITHUB_TOKEN=${{ secrets.REPO_ACCESS_TOKEN }}" >> $GITHUB_ENV
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
+          GITHUB_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
