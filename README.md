@@ -26,9 +26,9 @@
 | ![My Stats](https://github-readme-stats.vercel.app/api?username=RealConrad&count_private=true&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealConrad&theme=tokyonight)
 |---|---| -->
 
-## 📊 42Heilbronn Stats (School)
+<!-- ## 📊 42Heilbronn Stats (School)
 
-[![cwenz's 42 stats](https://badge.mediaplus.ma/darkblue/cwenz)](https://github.com/oakoudad/badge42)
+[![cwenz's 42 stats](https://badge.mediaplus.ma/darkblue/cwenz)](https://github.com/oakoudad/badge42) -->
 
 ## 🔧 Skills:
 #### Tech:
