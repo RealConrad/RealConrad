@@ -28,7 +28,7 @@
 
 ## 📊 42Heilbronn Stats (School)
 
-[![cwenz's 42 stats](https://badge.mediaplus.ma/darkblue/cwenz)](https://github.com/oakoudad/badge42)
+[![cwenz's 42 stats](https://badge.mediaplus.ma/darkblue/cwenz?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🔧 Skills:
 #### Tech:
