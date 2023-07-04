@@ -15,17 +15,13 @@
 - Anime watcher
 
 ## 📊 Github Stats
-![](https://komarev.com/ghpvc/?username=RealConrad&color=blue&style=for-the-badge)
+<!-- ![](https://komarev.com/ghpvc/?username=RealConrad&color=blue&style=for-the-badge) -->
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
 		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
 	</a>
 </p>
-
-<!-- THEMES: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-| ![My Stats](https://github-readme-stats.vercel.app/api?username=RealConrad&count_private=true&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealConrad&theme=tokyonight)
-|---|---| -->
 
 ## 📊 42Heilbronn Stats (School)
 
