@@ -33,16 +33,16 @@
 
 ## 🔧 Skills:
 #### Tech:
-[![My Skills](https://skillicons.dev/icons?i=c,js,ts,vue,html,css,tailwindcss,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,ts,vue,html,css,tailwindcss&theme=dark)](https://skillicons.dev)
 #### Tools:
 [![My Skills](https://skillicons.dev/icons?i=figma,github,git,stackoverflow&theme=dark)](https://skillicons.dev)
 #### IDE's:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark)](https://skillicons.dev)
 #### Currently Learning:
 [![My Skills](https://skillicons.dev/icons?i=blender,cs,svelte&theme=dark)](https://skillicons.dev)
-> Tech: C, JavaScript, TypeScript, Vue, HTML, CSS, TailwindCSS, Bash \
+> Tech: C, JavaScript, TypeScript, Vue, HTML, CSS, TailwindCSS \
 > Tools: Figma, Github, Git, Stackoverflow \
-> IDE's: VSCode, VisualStudio, VIM \
+> IDE's: VSCode, VisualStudio \
 > Currently Learning: Blender, C#, Svelte
 
 ## ✉️ Get In Touch
