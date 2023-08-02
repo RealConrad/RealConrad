@@ -12,7 +12,7 @@
 - [42Heilbronn](https://www.42heilbronn.de/en/) Student (Part of the [42Network](https://www.42network.org/))
 - Programmer
 - Gamer
-- Anime watcher
+- Anime Enjoyer
 
 ## 📊 Github Stats
 <!-- ![](https://komarev.com/ghpvc/?username=RealConrad&color=blue&style=for-the-badge) -->
