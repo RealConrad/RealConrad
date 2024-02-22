@@ -33,10 +33,10 @@
 #### Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,stackoverflow,vscode&theme=dark)](https://skillicons.dev)
 #### Currently Learning:
-[![My Skills](https://skillicons.dev/icons?i=flutter,go,godot&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,go,godot&theme=dark)](https://skillicons.dev)
 > Tech: C, JavaScript, TypeScript, Vue, HTML, CSS, TailwindCSS \
 > Tools: Github, Git, Stackoverflow, VSCode \
-> Currently Learning: Flutter, Go, Godot
+> Currently Learning: C++, Go, Godot
 
 ## ✉️ Get In Touch
 Don't hesitate to reach out to me, whether you have a question, want to hang out, or even play a game – just give me a ping!
