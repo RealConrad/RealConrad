@@ -23,9 +23,8 @@
 	</a>
 </p>
 
-## 📊 42Heilbronn Stats (School)
-
-[![cwenz's 42 stats](https://badge.mediaplus.ma/darkblue/cwenz?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<!-- ## 📊 42Heilbronn Stats (School) -->
+<!-- [![cwenz's 42 stats](https://badge.mediaplus.ma/darkblue/cwenz?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
 
 ## 🔧 Skills:
 #### Tech:
@@ -33,10 +32,10 @@
 #### Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,stackoverflow,vscode&theme=dark)](https://skillicons.dev)
 #### Currently Learning:
-[![My Skills](https://skillicons.dev/icons?i=cpp,go,godot&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,go&theme=dark)](https://skillicons.dev)
 > Tech: C, JavaScript, TypeScript, Vue, HTML, CSS, TailwindCSS \
 > Tools: Github, Git, Stackoverflow, VSCode \
-> Currently Learning: C++, Go, Godot
+> Currently Learning: C++, Go
 
 ## ✉️ Get In Touch
 Don't hesitate to reach out to me, whether you have a question, want to hang out, or even play a game – just give me a ping!
