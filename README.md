@@ -45,9 +45,6 @@ Don't hesitate to reach out to me, whether you have a question, want to hang out
 	<a style="padding-right: 5px;" href="https://steamcommunity.com/profiles/76561198312925864/">
 		<img alt="Steam" width="130" hight="100" src="https://github.com/RealConrad/RealConrad/blob/main/assests/steam.png" />
 	</a>
-  <a href="https://twitter.com/RealConrad_">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
-  </a>
     <a href="https://discord.com/users/390230313026060300">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
   </a>
