@@ -42,12 +42,14 @@ Don't hesitate to reach out to me, whether you have a question, want to hang out
 
 
 <div align="center">
-<!-- 	<a style="padding-right: 5px;" href="https://steamcommunity.com/profiles/76561198312925864/">
-		<img alt="Steam" width="130" hight="100" src="https://github.com/RealConrad/RealConrad/blob/main/assests/steam.png" />
-	</a>
-    <a href="https://discord.com/users/390230313026060300"> -->
+  <a href="https://discord.com/users/390230313026060300">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
   </a>
+
+  <a href="https://www.linkedin.com/in/conrad-wenz/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+
 
   <div style="padding-top: 5px;>
 
