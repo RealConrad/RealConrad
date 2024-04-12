@@ -32,14 +32,6 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RealConrad&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RealConrad&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
 
 # 🔧 Skills:
 #### Tech:
@@ -54,7 +46,6 @@
 
 ## ✉️ Get In Touch
 Don't hesitate to reach out to me, whether you have a question, want to hang out, or even play a game – just give me a ping!
-
 
 <div align="center">
   <a href="https://discord.com/users/390230313026060300">
