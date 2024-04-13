@@ -29,10 +29,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RealConrad&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RealConrad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RealConrad&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
 # 🔧 Skills:
 #### Tech:
 [![My Skills](https://skillicons.dev/icons?i=c,js,ts,vue,html,css,tailwindcss&theme=dark)](https://skillicons.dev)
