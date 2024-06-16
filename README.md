@@ -22,6 +22,7 @@
 	</a>
 </p>
 
+<!--
 ### ✨ Overview
 <div align=center>
 	
@@ -30,15 +31,17 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=RealConrad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RealConrad&theme=nightowl&hide_border=false)<br/>
+-->
+
 
 # 🔧 Skills:
 ### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,vue,html,css,tailwindcss&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,js,ts,vue,html,css,tailwindcss&theme=dark)](https://skillicons.dev)
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode&theme=dark)](https://skillicons.dev)
 ### Currently Learning:
 [![My Skills](https://skillicons.dev/icons?i=go,python,django,aws&theme=dark)](https://skillicons.dev)
-> Tech: C, C++, JavaScript, TypeScript, Vue, HTML, CSS, TailwindCSS \
+> Tech: C, C++, Docker, JavaScript, TypeScript, Vue, HTML, CSS, TailwindCSS \
 > Tools: Github, Git, Figma, VSCode \
 > Currently Learning: Go, Python, Django, AWS
 
