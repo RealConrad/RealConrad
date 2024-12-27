@@ -7,7 +7,7 @@
 <img alt="landing-page-gif" src="https://media.giphy.com/media/6ULDGyRw0uhECEhAaQ/giphy-downsized-large.gif" width="100%" />
 
 # 👋 Hello, I'm Conrad
-- [42Heilbronn](https://www.42heilbronn.de/en/) Student (Part of the [42Network](https://www.42network.org/))
+- [42Heilbronn](https://www.42heilbronn.de/en/) Alumni (Part of the [42Network](https://www.42network.org/))
 - Programmer
 - Gamer
 - Watching Anime
@@ -36,14 +36,11 @@
 
 # 🔧 Skills:
 ### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,js,ts,vue,html,css,tailwindcss&theme=dark)](https://skillicons.dev)
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,js,ts,vue&theme=dark)](https://skillicons.dev)
 ### Currently Learning:
-[![My Skills](https://skillicons.dev/icons?i=go,python,django,aws&theme=dark)](https://skillicons.dev)
-> Tech: C, C++, Docker, JavaScript, TypeScript, Vue, HTML, CSS, TailwindCSS \
-> Tools: Github, Git, Figma, VSCode \
-> Currently Learning: Go, Python, Django, AWS
+[![My Skills](https://skillicons.dev/icons?i=go,rust&theme=dark)](https://skillicons.dev)
+> Tech: C, C++, Docker, JavaScript, TypeScript, Vue \
+> Currently Learning: Go, Rust
 
 ## ✉️ Get In Touch
 <a href="https://www.linkedin.com/in/conrad-wenz/">
