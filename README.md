@@ -36,10 +36,10 @@
 
 # 🔧 Skills:
 ### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,js,ts,vue&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,py,js,ts,vue&theme=dark)](https://skillicons.dev)
 ### Currently Learning:
 [![My Skills](https://skillicons.dev/icons?i=go,rust&theme=dark)](https://skillicons.dev)
-> Tech: C, C++, Docker, JavaScript, TypeScript, Vue \
+> Tech: C, C++, Docker, Python JavaScript, TypeScript, Vue \
 > Currently Learning: Go, Rust
 
 ## ✉️ Get In Touch
